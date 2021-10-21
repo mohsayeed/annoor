@@ -1,0 +1,15 @@
+C:\Users\Saad\Source\Repos\OnionArchitecture\ServicesLayer\bin\Debug\netcoreapp3.1\ServicesLayer.deps.json
+C:\Users\Saad\Source\Repos\OnionArchitecture\ServicesLayer\bin\Debug\netcoreapp3.1\ServicesLayer.dll
+C:\Users\Saad\Source\Repos\OnionArchitecture\ServicesLayer\bin\Debug\netcoreapp3.1\ServicesLayer.pdb
+C:\Users\Saad\Source\Repos\OnionArchitecture\ServicesLayer\bin\Debug\netcoreapp3.1\DomainLayer.dll
+C:\Users\Saad\Source\Repos\OnionArchitecture\ServicesLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.dll
+C:\Users\Saad\Source\Repos\OnionArchitecture\ServicesLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.pdb
+C:\Users\Saad\Source\Repos\OnionArchitecture\ServicesLayer\bin\Debug\netcoreapp3.1\DomainLayer.pdb
+C:\Users\Saad\Source\Repos\OnionArchitecture\ServicesLayer\obj\Debug\netcoreapp3.1\ServicesLayer.csproj.AssemblyReference.cache
+C:\Users\Saad\Source\Repos\OnionArchitecture\ServicesLayer\obj\Debug\netcoreapp3.1\ServicesLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Saad\Source\Repos\OnionArchitecture\ServicesLayer\obj\Debug\netcoreapp3.1\ServicesLayer.AssemblyInfoInputs.cache
+C:\Users\Saad\Source\Repos\OnionArchitecture\ServicesLayer\obj\Debug\netcoreapp3.1\ServicesLayer.AssemblyInfo.cs
+C:\Users\Saad\Source\Repos\OnionArchitecture\ServicesLayer\obj\Debug\netcoreapp3.1\ServicesLayer.csproj.CoreCompileInputs.cache
+C:\Users\Saad\Source\Repos\OnionArchitecture\ServicesLayer\obj\Debug\netcoreapp3.1\ServicesLayer.dll
+C:\Users\Saad\Source\Repos\OnionArchitecture\ServicesLayer\obj\Debug\netcoreapp3.1\ServicesLayer.pdb
+C:\Users\Saad\source\repos\OnionArchitecture\ServicesLayer\obj\Debug\netcoreapp3.1\ServicesLayer.csproj.CopyComplete
